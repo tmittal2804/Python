@@ -1,4 +1,7 @@
-a = "Tanya"
-b = "Mittal"
+x = 9
+y = 7
 
-print(a + " " + b)
+print("Addition:", x + y)
+print("Multiplication:", x * y)
+print("Division:", x / y)
+print("Subtraction:", x - y)
